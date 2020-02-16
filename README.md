@@ -1,5 +1,6 @@
 # Gitのテストです。
 レポジトリの説明
+gitのテストです。
 
 ## メンバー
 *YUSAKU SHIBATA
